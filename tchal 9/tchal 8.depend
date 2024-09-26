@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727273002 source:c:\users\youco\desktop\les ex\tchal 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
